@@ -1,4 +1,4 @@
-# C-_Automated_Tests
+# C#_Automated_Tests
 
 Prerequisites Visual Studio (recommended version: Visual Studio Community) .NET SDK NUnit test framework
 
